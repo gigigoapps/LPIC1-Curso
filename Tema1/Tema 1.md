@@ -10,3 +10,11 @@ Acto seguido hay que bajarse las dos ultimas vesiones de sistemas operativos que
 
 - Debian :  http://cdimage.debian.org/debian-cd/7.8.0/multi-arch/iso-cd/debian-7.8.0-amd64-i386-netinst.iso
 - Fedora: http://download.fedoraproject.org/pub/fedora/linux/releases/21/Workstation/x86_64/iso/Fedora-Live-Workstation-x86_64-21-5.iso
+
+Comandos a destacar 
+
+- flag -- help (Ayuda de un comando)
+- help (comando de ayuda)
+- man (manual)
+  * -k (busqueda por correspondecia)
+
